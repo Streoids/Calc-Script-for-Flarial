@@ -1,0 +1,8 @@
+{
+    "name": "Calculator",
+    "description": "Arithmetic Calculator use .calchelp for more info",
+    "author": "Streoids",
+    "main_class": "calc.luac",
+    "api_revision": 2,
+    "version": "1.0.0"
+}
